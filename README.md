@@ -1,4 +1,4 @@
-Enterprise kicsit más
+# Enterprise Oracle Database Image futtatása Lokálisan Docker konténerben
 ## 0.
 https://container-registry.oracle.com oldalon Database alatt Enterprise verzió, Jobb oldalon be kell jelentkezni, és el kell fogadni a licenszet, ezután tudjuk letölteni az imaget
 ## 0.1.
